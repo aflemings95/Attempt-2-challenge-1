@@ -10,4 +10,4 @@ A website about search engine optimization
 file:///Users/andreaflemings/Desktop/Attempt-2-challenge-1/index.html
 
 # Contribution
-Made with ❤️ by [Horiseon]]
+Made with ❤️ by [Horiseon]
